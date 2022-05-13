@@ -7,10 +7,35 @@ files for code report
 <br />
 
 # 2.4 Exercises of Algorithm Complexity Analysis
-## location in code report: 
+### location in code report: 
 Page24 > 2.4 Exercises of Algorithm Complexity Analysis
 
-### Details: 
+### Details:
+This file contains some simple exercises on algorithmic complexity analysis
+
+
+
+
+
+<br />
+<br />
+<br />
+<br />
+*** 
+
+<br />
+<br />
+<br />
+<br />
+
+
+## What is KNN?
+
+<br />
+<br />
+
+![image-4.png](attachment:image-4.png)
+
 
 
 
