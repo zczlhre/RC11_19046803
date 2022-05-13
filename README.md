@@ -38,7 +38,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 Page24 > 2.5  Network Analysis Based on NetworkX
 
 ### Details:
-This file contains some simple exercises on algorithmic complexity analysis
+This file contains an exercise in network analysis of video game sales ranking data
 
 
 
