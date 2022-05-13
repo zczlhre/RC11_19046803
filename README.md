@@ -20,6 +20,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 <br />
 <br />
 <br />
+
 *** 
 
 <br />
@@ -46,6 +47,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 <br />
 <br />
 <br />
+
 *** 
 
 <br />
@@ -73,6 +75,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 <br />
 <br />
 <br />
+
 *** 
 
 <br />
@@ -99,6 +102,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 <br />
 <br />
 <br />
+
 *** 
 
 <br />
@@ -125,6 +129,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 <br />
 <br />
 <br />
+
 *** 
 
 <br />
