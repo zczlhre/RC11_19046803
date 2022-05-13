@@ -7,8 +7,9 @@ files for code report
 <br />
 
 # 2.4 Exercises of Algorithm Complexity Analysis
-### location in code report: 
+## location in code report: 
 Page24 > 2.4 Exercises of Algorithm Complexity Analysis
+## D: 
 
 
 
