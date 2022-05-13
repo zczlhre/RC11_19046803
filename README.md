@@ -33,6 +33,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 
 <br />
 <br />
+
 ### location in code report: 
 Page24 > 2.4 Exercises of Algorithm Complexity Analysis
 
@@ -60,6 +61,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 
 <br />
 <br />
+
 ### location in code report: 
 Page24 > 2.4 Exercises of Algorithm Complexity Analysis
 
@@ -88,6 +90,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 
 <br />
 <br />
+
 ### location in code report: 
 Page24 > 2.4 Exercises of Algorithm Complexity Analysis
 
@@ -115,6 +118,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 
 <br />
 <br />
+
 ### location in code report: 
 Page24 > 2.4 Exercises of Algorithm Complexity Analysis
 
@@ -142,6 +146,7 @@ This file contains some simple exercises on algorithmic complexity analysis
 
 <br />
 <br />
+
 ### location in code report: 
 Page24 > 2.4 Exercises of Algorithm Complexity Analysis
 
